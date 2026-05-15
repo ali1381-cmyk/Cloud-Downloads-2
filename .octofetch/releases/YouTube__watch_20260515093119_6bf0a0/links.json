@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8202",
+  "folder": "YouTube__watch_20260515093119_6bf0a0",
+  "base_name": "3ETWUgM67vw_3ETWUgM67vw_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ali1381-cmyk/Cloud-Downloads-2/releases/tag/co-releases-v1-8202",
+  "files": [
+    {
+      "name": "3ETWUgM67vw_3ETWUgM67vw_1080p.mp4",
+      "url": "https://github.com/ali1381-cmyk/Cloud-Downloads-2/releases/download/co-releases-v1-8202/3ETWUgM67vw_3ETWUgM67vw_1080p.mp4",
+      "api_url": "https://api.github.com/repos/ali1381-cmyk/Cloud-Downloads-2/releases/assets/420892856",
+      "id": 420892856,
+      "size": 3570203,
+      "download_count": 0
+    }
+  ]
+}
